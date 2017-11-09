@@ -99,8 +99,8 @@
     },
     {
       "component": "header",
-      "heading": "new-site",
-      "subhead": null,
+      "heading": "Nouveau Site",
+      "subhead": "L'humain avant la machie",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -111,6 +111,12 @@
           "component": "ui/GithubButton",
           "user": "Mesosapiens",
           "repo": "new-site"
+        }
+      ],
+      "links": [
+        {
+          "href": "https://yp.ca",
+          "text": "Découvrir"
         }
       ]
     },
